@@ -1,0 +1,1 @@
+puts "There is an error in the syntax. Instead of a closing curly brace, we must've used a closing parenthesis."
