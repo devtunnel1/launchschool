@@ -9,4 +9,4 @@ end
 
 if arr.include?(number)
   puts "#{number} is indeed in the array."
-end`
+end
